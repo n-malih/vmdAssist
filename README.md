@@ -1,4 +1,4 @@
-![image](https://github.com/n-malih/vmdAssist/assets/131417595/828d5815-59b0-463e-8db0-e7100b0c425c)# vmdAssist
+# vmdAssist
 vmdAssist is a VMD extension with tools that help us edit or create new structures like nanotube and nano torus.
 
 
