@@ -37,14 +37,14 @@ vmdAssis is a VMD extension, therefore you must install VMD first.
 
 "C:\Program Files (x86)\University of Illinois\VMD\plugins\noarch\tcl"
 
-![plugins](https://iili.io/HZ2LLiX.png)
+![plugin](https://iili.io/HZ3nDru.png)
 
 
 3) Add the following to the end of "vmd.rc" in "C:\Program Files (x86)\University of Illinois\VMD":
 
 vmd_install_extension vmdAssist vmdAssist_gui "vmdAssist"
 
-![vmdrc](https://iili.io/HZ3nDru.png)
+![vmdrc](https://iili.io/HZ3dye1.png)
 
 
 ------------------------------------------------------------------
