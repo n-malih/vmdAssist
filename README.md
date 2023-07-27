@@ -20,10 +20,11 @@ vmdAssist is a VMD extension with tools that help us edit or create new structur
 - Extract part of a structure
 - LAMMPS data file Import/Export
 
-![win1](https://iili.io/HZ26O3x.png)
-![win2](https://iili.io/HZ26eYQ.png)
-![win3](https://iili.io/HZ26kvV.png)
-![builder](https://iili.io/HZ26LaR.png)
+
+![win1](https://iili.io/HZ3o9mQ.png)
+![win2](https://iili.io/HZ3np7j.png)
+![win3](https://iili.io/HZ3nmdb.png)
+![builder](https://iili.io/HZ3odhB.png)
 
 
 ------------------------------------------------------------------
@@ -37,7 +38,7 @@ vmdAssis is a VMD extension, therefore you must install VMD first.
   ![plugins](https://iili.io/HZ2LLiX.png)
 2) Add the following to the end of "vmd.rc" in "C:\Program Files (x86)\University of Illinois\VMD":
    vmd_install_extension vmdAssist vmdAssist_gui "vmdAssist"
-   ![vmdrc](https://iili.io/HZ3dye1.png)
+   ![vmdrc](https://iili.io/HZ3nDru.png)
 
 
 ------------------------------------------------------------------
