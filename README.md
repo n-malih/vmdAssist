@@ -50,6 +50,7 @@ vmdAssis is a VMD extension, therefore you must install VMD first.
 ------------------------------------------------------------------
 ## How to cite:
 Please cite vmdAssist using
+
 https://doi.org/10.5281/zenodo.8192857
 [![DOI](https://zenodo.org/badge/671649701.svg)](https://zenodo.org/badge/latestdoi/671649701)
 
