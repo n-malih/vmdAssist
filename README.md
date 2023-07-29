@@ -43,15 +43,16 @@ vmdAssis is a VMD extension, therefore you must install VMD first.
 
 
 2)
-    (windows) Add the following to the end of "vmd.rc" in "C:\Program Files (x86)\University of Illinois\VMD":
 
-    vmd_install_extension vmdAssist vmdAssist_gui "vmdAssist"
+  (windows) Add the following to the end of "vmd.rc" in "C:\Program Files (x86)\University of Illinois\VMD":
+
+          vmd_install_extension vmdAssist vmdAssist_gui "vmdAssist"
 
 ![vmdrc](https://iili.io/HZ3dye1.png)
 
-    (unix) Add the following to the end of ".vmdrc" in "/usr/local/lib/vmd":
+(unix) Add the following to the end of ".vmdrc" in "/usr/local/lib/vmd":
 
-    vmd_install_extension vmdAssist vmdAssist_gui "vmdAssist"
+            vmd_install_extension vmdAssist vmdAssist_gui "vmdAssist"
 
 ------------------------------------------------------------------
 ## How to cite:
