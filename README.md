@@ -35,9 +35,9 @@ vmdAssis is a VMD extension, therefore you must install VMD first.
 ### Usage:
 1) Place "vmdassist1.0" folder in the VMD plugins directory:
 
-    windows > "C:\Program Files (x86)\University of Illinois\VMD\plugins\noarch\tcl"
+    (windows) > "C:\Program Files (x86)\University of Illinois\VMD\plugins\noarch\tcl"
    
-    unix    > "/usr/local/lib/vmd/plugins/noarch/tcl"
+    (unix)    > "/usr/local/lib/vmd/plugins/noarch/tcl"
 
 ![plugin](https://iili.io/HZ3nDru.png)
 
