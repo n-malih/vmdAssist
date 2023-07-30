@@ -24,7 +24,7 @@ vmdAssist is a VMD extension with tools that help us edit or create new structur
 ![win1](https://iili.io/HZ3o9mQ.png)
 ![win2](https://iili.io/HZ3np7j.png)
 ![win3](https://iili.io/HZ3nmdb.png)
-![builder](https://iili.io/HZ3odhB.png)
+![builder](https://iili.io/HZa8TPe.png)
 
 
 ------------------------------------------------------------------
