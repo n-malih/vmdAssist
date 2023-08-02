@@ -21,10 +21,10 @@ vmdAssist is a VMD extension with tools that help us edit or create new structur
 - LAMMPS data file Import/Export
 
 
-![win1](https://iili.io/HZ3o9mQ.png)
-![win2](https://iili.io/HZ3np7j.png)
-![win3](https://iili.io/HZ3nmdb.png)
-![builder](https://iili.io/HZa8TPe.png)
+![vmdassist window 1](https://iili.io/HZ3o9mQ.png)
+![vmdassist window 2](https://iili.io/HZ3np7j.png)
+![vmdassist window 3](https://iili.io/HZ3nmdb.png)
+![vmdassist nano structure example](https://iili.io/HZa8TPe.png)
 
 
 ------------------------------------------------------------------
