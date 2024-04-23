@@ -22,10 +22,10 @@ You can use vmdAssist to convert any sheet structure to nanotube, nanotorus, spi
 - LAMMPS data file Import/Export
 
 
-![vmdassist window 1](https://iili.io/HZ3o9mQ.png)
-![vmdassist window 2](https://iili.io/HZ3np7j.png)
-![vmdassist window 3](https://iili.io/HZ3nmdb.png)
-![vmdassist nano structure example](https://iili.io/HZa8TPe.png)
+![vmdassist window 1](https://i.postimg.cc/7PGbZTkX/win1.png)
+![vmdassist window 2](https://i.postimg.cc/wxCMyTxz/win2.png)
+![vmdassist window 3](https://i.postimg.cc/F15M964t/win3.png)
+![vmdassist nano structure example](https://i.postimg.cc/XY3vLHyD/allshape.png)
 
 
 ------------------------------------------------------------------
@@ -41,7 +41,7 @@ vmdAssis is a VMD extension, therefore you must install VMD first.
    
    (UNIX) ```/usr/local/lib/vmd/plugins/noarch/tcl```
 
-![plugin](https://iili.io/HZ3nDru.png)
+![plugin](https://i.postimg.cc/ZndkzSXF/pluginfolder.png)
 
 2)
   (windows) Add the following at the end of "vmd.rc" in "C:\Program Files (x86)\University of Illinois\VMD":
@@ -52,7 +52,7 @@ vmdAssis is a VMD extension, therefore you must install VMD first.
   
   ```vmd_install_extension vmdAssist vmdAssist_gui "vmdAssist"```
 
-![vmdrc](https://iili.io/HZ3dye1.png)
+![vmdrc](https://i.postimg.cc/TYnwrMhD/vmdrc.png)
 
 #### method 2:
 Using Install.tcl file
