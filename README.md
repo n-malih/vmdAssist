@@ -1,6 +1,10 @@
 # vmdAssist
 vmdAssist is a VMD extension with tools that help us edit or create new structures like nanotube and nanotorus.
-You can use vmdAssist to convert any sheet structure to nanotube, nanotorus, spiral tube, or spiral sheet structure. vmdAssist has new options for changing the view direction or adding XYZ axes.
+You can use vmdAssist plugin to convert any sheet structure to nanotube, nanotorus, spiral tube, or spiral sheet structure. vmdAssist is a helpful VMD plugin that allows you to edit, translate, or rotate structures. vmdAssist has new options for changing the view direction or adding XYZ axes.
+
+
+### Keywords:
+**vmdAssist, Nanotube builder, Wrapping, Rolling, Nanotorus builder, Structure converter, Structure editor, VMD plugin, VMD extension**
 
 
 ## Features:
@@ -8,7 +12,7 @@ You can use vmdAssist to convert any sheet structure to nanotube, nanotorus, spi
 - Show Box button
 - Show XYZ axes
 - Create Nanotube, Nanotorus, Spiral tube, and Spiral sheet from any 2D sheet structure.
-    + Sheet to Nanotube
+    + Sheet to Nanotube - Convert any sheet structure to nanotube structure
     + Sheet to Nanotorus
     + Sheet to Spiral tube
     + Sheet to Spiral sheet
